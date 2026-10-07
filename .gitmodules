@@ -1,3 +1,6 @@
 [submodule "src/pulpino_students"]
 	path = src/pulpino_students
 	url = git@github.com:Shuregg/pulpino_students.git
+[submodule "src/aes"]
+	path = src/aes
+	url = git@github.com:Shuregg/aes.git
